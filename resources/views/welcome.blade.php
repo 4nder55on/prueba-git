@@ -30,8 +30,8 @@
                     <tr>
                         <td>Andersson</td>
                         <td>Pérez</td>
-                        <td>anndersson.perez@hotmail.es</td>
-                        <td>58426090</td>
+                        <td>sin Informacion</td>
+                        <td>Sin Datos</td>
                     </tr>
                 </tbody>
             </table>
